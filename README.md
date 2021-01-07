@@ -1,3 +1,5 @@
+Clonado como parte do curso: Securing a JavaScript REST API with JSON Web Tokens. Disponível na Plusalsight
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # System Requirements for Course
