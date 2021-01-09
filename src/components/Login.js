@@ -34,7 +34,7 @@ export const Login = () => {
     >
       <Grid item style={{ marginBottom: "10vh" }}>
         <Typography variant={"h3"}>
-          Welcome to Bookie!
+          Bem vindo ao Bookie!
           <span role={"img"} aria-label={"books"}>
             📚
           </span>
