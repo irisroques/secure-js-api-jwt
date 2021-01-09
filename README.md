@@ -1,3 +1,5 @@
+Fork do projeto para estudo do curso Securing a Javascript REST API with JSON web tokens, disponível na pluralsight.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # System Requirements for Course
